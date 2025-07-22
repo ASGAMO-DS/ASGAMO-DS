@@ -1,11 +1,11 @@
 <h1 align="center">Hola, soy Alejandro Galeano</h1>
-<h3 align="center">Científico de Datos de Colombia</h3>
+<h3 align="center">Economista | Especialista en Alta Gerencia | Científico de Datos de Colombia y un apasionado por la innovación y transformación digital</h3>
 
 - 🔭 Actualmente estoy trabajando en [InsigthPulse](https://github.com/ASGAMO-DS/Proyecto-Final-Version1)
 
 - 🌱 Estoy aprendiendo sobre **Programación Web**
 
-- 💬 Preguntame sobre **el Api de facebook para Python**
+- 💬 Preguntame sobre **el Api de facebook para Python o sistemas RAG para empresas**
 
 - 📫 Contáctame **alejandro229208@gmail.com**
 
