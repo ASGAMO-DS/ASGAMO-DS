@@ -5,7 +5,7 @@
 
 - 🌱 Estoy aprendiendo sobre **Programación Web**
 
-- 💬 Preguntame sobre **el Api de facebook para Python o sistemas RAG para empresas**
+- 💬 Preguntame sobre **el Api de facebook para Python, automatización de procesos con inteligencia artificial o sistemas RAG para empresas, emprendedores o profesionales independientes**
 
 - 📫 Contáctame **alejandro229208@gmail.com**
 
