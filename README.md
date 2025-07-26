@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Alejandro Galeano</h1>
 <h3 align="center">Economista | Especialista en Alta Gerencia | Científico de Datos de Colombia y un apasionado por la innovación y transformación digital</h3>
 
-- 🔭 Actualmente estoy trabajando en [InsigthPulse](https://github.com/ASGAMO-DS/Proyecto-Final-Version1)
+- 🔭 Actualmente estoy trabajando en [InsigthPulse](https://github.com/ASGAMO-DS/Proyecto-Final-Version1) y [MODULOS RAG]([https://github.com/ASGAMO-DS/Proyecto-Final-Version1](https://github.com/ASGAMO-DS/Proyecto-Sagalo.git))
 
 - 🌱 Estoy aprendiendo sobre **Programación Web**
 
