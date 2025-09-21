@@ -7,7 +7,7 @@
 
 - 💬 Preguntame sobre **el Api de facebook para Python, automatización de procesos con inteligencia artificial o sistemas RAG para empresas, emprendedores o profesionales independientes**
 
-- 📫 Contáctame **alejandro229208@gmail.com**
+- 📫 Contáctame **alejandro@alejandrogaleano.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/9kp5f7o2jp0d](https://flowcv.com/resume/9kp5f7o2jp0d)
 
